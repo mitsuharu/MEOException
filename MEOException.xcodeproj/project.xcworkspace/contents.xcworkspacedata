@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MEOException.xcodeproj">
+      location = "self:/Users/mitsuharu/Documents/_frameworks/MEOException/MEOException.xcodeproj">
    </FileRef>
 </Workspace>

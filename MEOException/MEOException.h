@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
+#import "UITableView+.h"
+#import "Exceptions.h"
+
 //! Project version number for MEOException.
 FOUNDATION_EXPORT double MEOExceptionVersionNumber;
 
