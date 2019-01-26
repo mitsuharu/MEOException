@@ -1,7 +1,9 @@
 # MEOException
 
 
-Swift で UITableView.reloadCells() などを行ったときのランタイム例外をキャッチする
+Swift で UITableView.reloadCells() などを行ったときのランタイム例外をキャッチする．
+
+(en) It catches runtime exception e.g. UITableView.reloadCells() in Swift. 
 
 - reload(Rows|Sections)
 - insert(Rows|Sections)
@@ -28,7 +30,7 @@ github "mitsuharu/MEOException"
 
 ## CocoaPods
 
-未定
+not yet
 
 
 # License
