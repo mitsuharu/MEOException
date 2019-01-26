@@ -9,9 +9,4 @@
 import UIKit
 
 class CatchException: NSObject {
-    static func doBlock(block:@escaping Block){
-        ExcBlock.execute(block) { (exception) in
-            print("exc \(exception.name), \(exception.description)")
-        }
-    }
 }

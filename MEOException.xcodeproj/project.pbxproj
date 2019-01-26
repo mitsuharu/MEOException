@@ -22,7 +22,6 @@
 		9BBC563A21FC96BE00A8763C /* UITableView+.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBC563821FC96BE00A8763C /* UITableView+.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9BBC563B21FC96BE00A8763C /* UITableView+.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BBC563921FC96BE00A8763C /* UITableView+.m */; };
 		9BBC564221FC9ED600A8763C /* Exceptions.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBC564021FC9ED600A8763C /* Exceptions.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9BBC564321FC9ED600A8763C /* Exceptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BBC564121FC9ED600A8763C /* Exceptions.m */; };
 		9BBC564F21FCA58600A8763C /* VanillaCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9BBC564D21FCA58600A8763C /* VanillaCell.xib */; };
 		9BBC565021FCA58600A8763C /* VanillaCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBC564E21FCA58600A8763C /* VanillaCell.swift */; };
 /* End PBXBuildFile section */
@@ -75,7 +74,6 @@
 		9BBC563821FC96BE00A8763C /* UITableView+.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UITableView+.h"; sourceTree = "<group>"; };
 		9BBC563921FC96BE00A8763C /* UITableView+.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UITableView+.m"; sourceTree = "<group>"; };
 		9BBC564021FC9ED600A8763C /* Exceptions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Exceptions.h; sourceTree = "<group>"; };
-		9BBC564121FC9ED600A8763C /* Exceptions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Exceptions.m; sourceTree = "<group>"; };
 		9BBC564D21FCA58600A8763C /* VanillaCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = VanillaCell.xib; sourceTree = "<group>"; };
 		9BBC564E21FCA58600A8763C /* VanillaCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VanillaCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -219,7 +217,6 @@
 				9BBC563821FC96BE00A8763C /* UITableView+.h */,
 				9BBC563921FC96BE00A8763C /* UITableView+.m */,
 				9BBC564021FC9ED600A8763C /* Exceptions.h */,
-				9BBC564121FC9ED600A8763C /* Exceptions.m */,
 			);
 			path = objc;
 			sourceTree = "<group>";
@@ -439,7 +436,6 @@
 			files = (
 				9B5E0C0021F21AEE0043855F /* CatchException.swift in Sources */,
 				9BBC563B21FC96BE00A8763C /* UITableView+.m in Sources */,
-				9BBC564321FC9ED600A8763C /* Exceptions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
