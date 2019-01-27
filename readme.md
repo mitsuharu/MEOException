@@ -5,6 +5,8 @@ Swift で UITableView.reloadRows() などを行ったときのランタイム例
 
 (en) It catches runtime exception e.g. UITableView.reloadRows() in Swift. 
 
+## UITableView
+
 - reload(Rows|Sections)
 - insert(Rows|Sections)
 - delete(Rows|Sections)
